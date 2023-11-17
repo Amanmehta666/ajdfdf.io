@@ -1,7 +1,6 @@
-<h1 align="center">Sutra-Spoof v2
-<img src="logo.png" width="300"><br>
+<h1 align="center">Sutra-Spoof v2<br>
 </h1>
-
+<img src="logo.png" width="300">
 * `📱 💀`<br />
 * `A Email-Spoofer for termux & Linux `
 
