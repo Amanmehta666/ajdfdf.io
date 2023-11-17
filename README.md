@@ -1,5 +1,5 @@
 <h1 align="center">Sutra-Spoof v2
-<img src="logo.png"><br>
+<img src="logo.png" height="100"><br>
 </h1>
 
 * `📱 💀`<br />
